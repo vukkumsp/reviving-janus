@@ -1,3 +1,4 @@
+_Note_: A Personal Project forked from Shopizer to upgrade its version and make it suitable with current Java (21+) & Spring versions.
 # Shopizer 3 (for java 17 +) (tested with Java 11, 17)
 
 3.2.7
